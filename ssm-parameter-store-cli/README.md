@@ -24,4 +24,4 @@ Parâmetros criados e acessados com sucesso:
   - Última modificação: `2025-10-04`  
   - Modificado por: `eduardo.hardman@gmail.com`
 
-> ✅ Script executado com sucesso via AWS CloudShell, com uso de `--overwrite` para atualizar parâmetros existentes.
+> ✅ Script executado com sucesso via AWS CloudShell, com uso de `--overwrite` para atualizar parâmetros existentes
